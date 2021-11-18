@@ -12,7 +12,7 @@
 
 :books: Ciência da Computação - Centro Universitário Augusto Motta.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+🎹  Musico 
 
  
 
