@@ -30,7 +30,7 @@
 ----------------------------------------------------------------------------------
 
 
-LINK_GIT = https://github.com/joaoluis12.
+LINK_GIT = joaoluis12.
 
 <!--
 **Joaoluis12/joaoluis12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
