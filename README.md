@@ -1,14 +1,14 @@
-# Welcome!
+# Seja bem vindo!
 
  
 
-## I'm (SEU NOME)!
+## João Luis Lourenço aqui 😃!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Estudante de Ciência da Computação!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: RJ/Brasil.
 
 :books: I’m currently learning everything.
 
@@ -23,16 +23,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 
-- Thanks for visiting.
+- Obrigado!
 
-- Enjoy it!! o/
+- o/
 
 ----------------------------------------------------------------------------------
 
 
-(SEU NOME) = Hellen.
-
-LINK_GIT = https://github.com/hellenmas.
+LINK_GIT = https://github.com/joaoluis12.
 
 <!--
 **Joaoluis12/joaoluis12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
