@@ -2,7 +2,7 @@
 
  
 
-## João Luis Lourenço aqui 😃
+## João Luis Lourenço 😃
 
  
 
@@ -12,7 +12,7 @@
 
 :books: Ciência da Computação - Centro Universitário Augusto Motta.
 
-🎹  Musico 
+🎹 Musico 
 
  
 
@@ -20,14 +20,16 @@
 
 Sou formado em Publicidade pela UNISUAM - RJ e estou no 5º período de Ciência da Computação.
 
-:Apaixonado por Tecnologia, Jogos e Música.
+:man_technologist: Apaixonado por Tecnologia, Jogos e Música.
 
-:Músico e instrumentista nas horas vagas!
+:musical_note: :musical_keyboard: :guitar: Músico e instrumentista nas horas vagas!
+
+
 
 
 Obrigado por acessas minha página!
 
-o/
+Enjoy!
 
 ----------------------------------------------------------------------------------
 
