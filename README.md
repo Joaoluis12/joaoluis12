@@ -24,9 +24,9 @@ Sou apaixonado por Tecnologia, Jogos e música.
 Sou músico e instrumentista nas horas vagas!
 
 
-- Obrigado por acessas minha página!
+Obrigado por acessas minha página!
 
-- o/
+o/
 
 ----------------------------------------------------------------------------------
 
