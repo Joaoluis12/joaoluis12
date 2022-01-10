@@ -18,10 +18,11 @@
 
 ## About me
 
-Sou formado em Publicidade pela UNISUAM - RJ e estou no 5º período de ciência da computação.
-Sou apaixonado por Tecnologia, Jogos e música.
+Sou formado em Publicidade pela UNISUAM - RJ e estou no 5º período de Ciência da Computação.
 
-Sou músico e instrumentista nas horas vagas!
+:Apaixonado por Tecnologia, Jogos e Música.
+
+:Músico e instrumentista nas horas vagas!
 
 
 Obrigado por acessas minha página!
