@@ -2,7 +2,7 @@
 
  
 
-## João Luis Lourenço aqui 😃!
+## João Luis Lourenço aqui 😃
 
  
 
