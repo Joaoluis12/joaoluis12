@@ -18,11 +18,13 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+Sou formado em Publicidade pela UNISUAM - RJ e estou no 5º período de ciência da computação.
+Sou apaixonado por Tecnologia, Jogos e música.
+
+Sou músico e instrumentista nas horas vagas!
 
 
-
-- Obrigado!
+- Obrigado por acessas minha página!
 
 - o/
 
