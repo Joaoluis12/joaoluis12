@@ -27,7 +27,7 @@ Sou formado em Publicidade pela UNISUAM - RJ e estou no 5º período de Ciência
 
 
 
-Obrigado por acessas minha página!
+Obrigado por acessar minha página!
 
 Enjoy!
 
