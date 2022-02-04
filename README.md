@@ -1,8 +1,16 @@
 # Seja bem vindo!
 
- 
-
 ## João Luis Lourenço 😃
+
+```
+function dev(name, age, work) {
+        this.name = name;
+        this.age = age;
+        this.work = work;
+      }
+      let joaoLourenco = new dev('João Luis Lourenço', 32, 'Developer and Musician');
+      console.log(joaoLourenco);
+```
 
  
 
