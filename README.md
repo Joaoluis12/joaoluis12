@@ -18,7 +18,7 @@ console.log(joaoLourenco);
 
 :house_with_garden: RJ/Brasil.
 
-:books: Ciência da Computação - Centro Universitário Augusto Motta.
+:books: Análise de Sistemas - Centro Universitário Augusto Motta.
 
 🎹 Musico 
 
