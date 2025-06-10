@@ -19,7 +19,7 @@ console.log(joaoLourenco);
 
 :house_with_garden: RJ/Brasil.
 
-:books: Análise de Sistemas - Centro Universitário Augusto Motta.
+:books: Big Data e Data Cience - IBMR.
 
 🎹 Musico 
 
@@ -27,7 +27,7 @@ console.log(joaoLourenco);
 
 ## About me
 
-Sou formado em Publicidade pela UNISUAM - RJ e estou no 5º período de Ciência da Computação.
+Formado em Publicidade pela UNISUAM - RJ
 
 :man_technologist: Apaixonado por Tecnologia, Jogos e Música.
 
