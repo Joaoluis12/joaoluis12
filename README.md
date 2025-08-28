@@ -13,7 +13,7 @@ console.log(joaoLourenco);
 ```
 
 ## Habilidades
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoluis12&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoluis12&layout=compact)
 
 :computer: Futuro Engenheiro de Software!
 
